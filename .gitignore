@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-tb_logs/
-csv/
-.claude/
-.egg-info/
-.ipynb_checkpoints/
