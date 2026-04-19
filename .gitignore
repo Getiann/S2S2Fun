@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.pt
+*.pth
+tb_logs/
+csv/
+checkpoint/
+.claude/
+*.egg-info/
+.ipynb_checkpoints/
